@@ -1,5 +1,5 @@
 
-package chess.system;
+package Application;
 
 import chess.ChessPiece;
 

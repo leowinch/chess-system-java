@@ -1,10 +1,10 @@
 
-package chess.system;
+package Application;
 
 import chess.ChessMatch;
 
 
-public class ChessSystem {
+public class Program {
 
     
     public static void main(String[] args) {
