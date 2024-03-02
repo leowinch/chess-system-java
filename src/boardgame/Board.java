@@ -28,10 +28,6 @@ public class Board {
         return columns;
     }
 
-    public void setColumns(int columns) {
-       this.columns = columns;
-    }
-
     public Piece piece(int row, int column) {
         if(!positionExists(row, column)) {
             throw new BoardException("Position not on the board");
